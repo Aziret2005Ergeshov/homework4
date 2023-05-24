@@ -1,0 +1,25 @@
+body{
+    background-color: pink; 
+}
+
+.div{
+    margin-top: 15px;
+    width: 30px;
+    height: 140px;
+    background-color: white;
+    margin-left: 718px;
+    border-radius: 20px;  
+    display: flex;
+    align-items: end;
+}
+.input{
+    margin-left: 700px;
+    width: 60px;
+    margin-top: 180px;
+}
+.div2{
+    width: 30px;
+    background-color: black;
+    border-radius: 20px;   
+ 
+}
